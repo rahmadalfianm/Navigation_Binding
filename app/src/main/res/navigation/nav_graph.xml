@@ -10,4 +10,9 @@
         android:name="com.navigation.aliza.MenuFragment"
         android:label="fragment_menu"
         tools:layout="@layout/fragment_menu" />
+    <fragment
+        android:id="@+id/detailFragment"
+        android:name="com.navigation.aliza.DetailFragment"
+        android:label="fragment_detail"
+        tools:layout="@layout/fragment_detail" />
 </navigation>

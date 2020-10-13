@@ -24,7 +24,7 @@ public class MenuFragment extends Fragment {
             @Override
             public void onClick(View v) {
                 Bundle bundle = new Bundle();
-                bundle.putString("nama", "Hello! My Name is Aliza Rizqi Fitriana");
+                bundle.putString("nama", "My Name is Aliza Rizqi Fitriana");
                 //Navigation.findNavController(view).navigate(R.id);
             }
         });
