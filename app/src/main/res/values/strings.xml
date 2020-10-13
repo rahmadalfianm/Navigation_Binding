@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">09-navigation-01-alizarizqi</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello! Klik This Button, Please!</string>
 </resources>
